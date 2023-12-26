@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "e25db402-405f-46ad-a1bd-4532e35b97df",
+    "Name": "UsrApp_jlsla3v",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrApp_jlsla3v.csproj",
+    "DependsOn": []
+  }
+}
